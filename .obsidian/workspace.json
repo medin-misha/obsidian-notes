@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "f1775713cd85c0c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6490b199cd106f31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88e8c8737552dd3c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a3771bfee1fb8bd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d529a6a1b9c433e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "851e285a5e96a6ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbba857ff943d0ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "337e60fb61bbc9b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pref",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da63abe63ef8142a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8dd3d56a2de08722",
+    "type": "split",
+    "children": [
+      {
+        "id": "0da49e089504ed0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4835335ac286a2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "abaa58257de74397",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d72bf7e78ae3090c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e69e57b673646dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6a3771bfee1fb8bd",
+  "lastOpenFiles": [
+    "экранирование текста.md",
+    "DRF filters.md",
+    "Зависимые поля.md",
+    "отображение связнызх моделей serializer.md",
+    "дз по физике.md",
+    "фикстуру данных.md",
+    "django admin.md",
+    "Тз на дипломную работу django.md",
+    "оптимизация роботы с базой данных django.md",
+    "django работа с файломи.md",
+    "DRF auth.md",
+    "статические файлы django.md",
+    "numpy.md",
+    "DRF.md",
+    "Аутентификация.md",
+    "именования переменных.md",
+    "django.md",
+    "Операторы.md",
+    "квадрупленты.md",
+    "compose.yaml.md"
+  ]
+}
